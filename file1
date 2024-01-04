@@ -16,4 +16,12 @@ class Pizzas:
 ########################
 #DRIVER SECTION
       #Enter your code below
-      
+#ask how many pizzas the user wants to create 
+numberofpizzas = input(f"how many virtual pizzas do you want to create? please enter a number between 1 and 10: ")
+if numberofpizzas 
+   print(f"Creating {numberofpizzas} pizzas...")
+# Define the different pizzas
+
+# price the pizzas
+pizza_price = random.randint(10,20)
+print(f"the pizza will cost ${pizza_price}!")
